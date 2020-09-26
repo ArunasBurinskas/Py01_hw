@@ -29,6 +29,8 @@ git status
 # ketvirtas žingsnis - susieju savo kompo repozitoriją su GitHubo repozitorija (reikia įvesti savo gmailą ir paswordą)
 git remote add origin https://github.com/ArunasBurinskas/Py01_hw.git
 
+# jei susiejimas jau yra (prisiloginęs), kartoti nereikia
+
 # penktas žingsnis - stumiu į GitHubą
 git push -u origin master
 
