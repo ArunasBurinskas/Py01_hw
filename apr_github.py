@@ -46,3 +46,6 @@ git status
 _______________________________
 # jei GitHube su pieštuku kažką pakeičiu, galima failus su pakeitimais pulinti atgal:
 git pull
+
+_______________________________
+# 2020-07-12 Rolandas aiškino apie:
